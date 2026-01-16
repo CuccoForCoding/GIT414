@@ -1,0 +1,69 @@
+/* CSS BY: Joey Cucco*/
+
+
+/* IMPORTED FONTS */
+
+@import url('');
+
+
+
+/* CSS RESET */
+
+* {
+
+}
+
+
+
+/* ROOT VARIABLES */
+
+:root {
+
+}
+
+
+
+/* GLOBAL STYLES */
+body {
+ 
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+footer {
+
+}
+
+/* MEDIA QUERY (medium) */
+@media (min-width: 768px) {
+  body {
+    background-color: red;
+  }
+}
+
+
+/* MEDIA QUERY (large) */
+@media (min-width: 1024px) {
+  body {
+    background-color: blue;
+  }
+}
+
+
+/* MEDIA QUERY (xl) */
+@media (min-width: 1440px) {
+  body {
+    background-color: yellow;
+  }
+}
+
+/* I added background colors for when the browser changes sizes
+   or when being viewed on different devices. I'm unsure of the content
+   I'm supposed to be adding because I'm an online student and don't 
+   have a zoom class schedule*/
